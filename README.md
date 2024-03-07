@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, JavaFX, Angular Framework, SQL, PLSQL, Rest API**
 
-- 📫 How to reach me [click here](**bilel.daikhi@gmail.com**) 
+- 📫 How to reach me [click here] **bilel.daikhi@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
