@@ -1,3 +1,6 @@
+<p align="center"> <a href="https://bilel-daikhi-portfolio.web.app" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/bilel-daikhi-portfolio.appspot.com/o/cv%2Fbig%20logo.png?alt=media&token=6ad04c44-5753-4e5c-b637-d8a582b9b1ca" alt="angular" width="160" height="150"/> </a></p>
+
+
 <h1 align="center">Hi 👋, I'm Bilel Daikhi</h1>
 <h3 align="center">A passionate Full Stack java developer.</h3>
  
@@ -8,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack java applications**
 
-- 👨‍💻 All of my projects are available at [click here](https://bilel-daikhi-portfolio.web.app/landing)
+- 👨‍💻 All of my projects are available at [click here](https://bilel-daikhi-portfolio.web.app)
 
 - 💬 Ask me about **Java, Spring Framework, JavaFX, Angular Framework, SQL, PLSQL, Rest API**
 
