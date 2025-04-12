@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://bilel-daikhi-portfolio.web.app" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/bilel-daikhi-portfolio.appspot.com/o/cv%2Fname-logo.jpg?alt=media&token=ebad9559-ad03-44eb-a2bc-ee2168c08e86" alt="angular" width="300" height="200"/> </a></p>
+<p align="center"> <a href="https://bilel-daikhi-portfolio.web.app" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/bilel-daikhi-portfolio.appspot.com/o/cv%2Fname-logo.jpg?alt=media&token=ebad9559-ad03-44eb-a2bc-ee2168c08e86" alt="angular" width="350" height="200"/> </a></p>
 
 
 <h1 align="center">Hi 👋, I'm Bilel Daikhi</h1>
