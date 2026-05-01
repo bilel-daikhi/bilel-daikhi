@@ -4,9 +4,6 @@
 <h1 align="center">Hi 👋, I'm Bilel Daikhi</h1>
 <h3 align="center">A Passionate Full Stack Java Developer.</h3>
  
-
-- 🔭 I’m currently working on **SBSA Deco**
-
 - 🌱 I’m currently learning **Kubernetes, Spring cloud**
 
 - 👯 I’m looking to collaborate on **Fullstack java applications**
